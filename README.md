@@ -1,1 +1,1 @@
-# domain-takeover-sample
+# Testing domain takeover
